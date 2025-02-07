@@ -27,7 +27,7 @@
 
  <h2 align="center">🥇 Work Experience 
 <p align="center"> 
-    over a year of experience as a Full Stack Web Developer at Aekads, Gandhinagar. He specializes in the MERN stack, working on backend and frontend development, authentication systems, database management, and cloud integrations. 
+    over a year of experience as a Full Stack Web Developer at Aekads, Gandhinagar. specializes in the MERN stack, working on backend and frontend development, authentication systems, database management, and cloud integrations. 
 </p>
  <hr/>
 
