@@ -25,17 +25,9 @@
 <br/>
  <hr/>
 
- <h2 align="center">🥇 LeetCode Badges 🥇</h2>
-<br/>
+ <h2 align="center">🥇 Work Experience 
 <p align="center"> 
-<!--     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="SQL.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
-    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="LeetCode75.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
-    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="october.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
-    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="november.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
-    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="december.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
-    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="january.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
-    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="50days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
-    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="100days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a> -->
+    over a year of experience as a Full Stack Web Developer at Aekads, Gandhinagar. He specializes in the MERN stack, working on backend and frontend development, authentication systems, database management, and cloud integrations. 
 </p>
  <hr/>
 
